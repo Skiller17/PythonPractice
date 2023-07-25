@@ -1,0 +1,1161 @@
+AMT-NV
+Acura-MDX
+Acura-RDX
+Adiputro-Jetbus
+Adiputro-Jetbus 2
+Adiputro-Jetbus 3
+Alfa Romeo-Giulietta
+Ashok Leyland-1613
+Ashok Leyland-1618
+Ashok Leyland-1815
+Ashok Leyland-3520
+Ashok Leyland-4019
+Ashok Leyland-Bada Dost
+Ashok Leyland-Viking
+Asia-Rocsta
+Audi-100
+Audi-80
+Audi-A1
+Audi-A3
+Audi-A4
+Audi-A5
+Audi-A6
+Audi-A7
+Audi-A8
+Audi-Q3
+Audi-Q5
+Audi-Q7
+Audi-Q8
+Audi-R8
+Audi-RS6
+Audi-S5
+Audi-S8
+Audi-TT
+Aurus-Senat
+Avante-SHD
+Avia-D
+BAW-Fenix
+BAZ-A079 Etalon
+BMW-1 Series
+BMW-2 Series
+BMW-3 Series
+BMW-4 Series
+BMW-5 Series
+BMW-6 Series
+BMW-7 Series
+BMW-I3
+BMW-Unknown
+BMW-X1
+BMW-X3
+BMW-X4
+BMW-X5
+BMW-X6
+BMW-X7
+BMW-Z3
+BMW-Z4
+BYD-F3
+BYD-Han
+Beiben-V3
+Bentley-Bentayga
+Bharatbenz-HDT
+Bharatbenz-MDT
+Brilliance-M2
+Brilliance-V5
+CAMC-375
+Cadillac-CTS
+Cadillac-Escalade
+Cadillac-SRX
+Cadillac-XT6
+Carrus-Star
+Changan-CS35 Plus
+Changan-CS95
+Changan-UNI-K
+Changan-UNI-V
+Chery-Amulet A15
+Chery-Fora
+Chery-IndiS
+Chery-Kimo S12
+Chery-Tiggo
+Chery-Tiggo 3
+Chery-Tiggo 4
+Chery-Tiggo 5
+Chery-Tiggo 7 Pro
+Chery-Tiggo 8 Pro
+Chery-Tiggo T11
+Chevrolet-Aveo
+Chevrolet-Blazer
+Chevrolet-Camaro
+Chevrolet-Caprice
+Chevrolet-Captiva
+Chevrolet-Cobalt
+Chevrolet-Corvette
+Chevrolet-Cruze
+Chevrolet-Epica
+Chevrolet-Equinox
+Chevrolet-Express
+Chevrolet-Lacetti
+Chevrolet-Lanos
+Chevrolet-Nexia
+Chevrolet-Niva
+Chevrolet-Nubira
+Chevrolet-Orlando
+Chevrolet-Rezzo
+Chevrolet-Spark
+Chevrolet-Suburban
+Chevrolet-Tahoe
+Chevrolet-Tracker
+Chevrolet-TrailBlazer
+Chevrolet-Trailblazer
+Chevrolet-Traverse
+Chevrolet-Unknown
+Chrysler-300
+Chrysler-300C
+Chrysler-Grand Voyager
+Chrysler-PT Cruiser
+Chrysler-Pacifica
+Chrysler-Sebring
+Chrysler-Town and Country
+Chrysler-Voyager
+Citroen-BX
+Citroen-Berlingo
+Citroen-C Crosser
+Citroen-C Elysee
+Citroen-C1
+Citroen-C2
+Citroen-C3
+Citroen-C3 Picasso
+Citroen-C4
+Citroen-C4 AirCross
+Citroen-C4 Picasso
+Citroen-C5
+Citroen-C5 Aircross
+Citroen-DS3
+Citroen-DS4
+Citroen-Grand C4 Picasso
+Citroen-Jumper
+Citroen-Jumpy
+Citroen-SpaceTourer
+Citroen-Xantia
+Citroen-Xsara
+Citroen-Xsara Picasso
+DAF-95
+DAF-CF
+DAF-LF
+DAF-Unknown
+DAF-XF
+DW Hower-H3
+Daewoo-BS106
+Daewoo-Espero
+Daewoo-Gentra
+Daewoo-Lanos
+Daewoo-Leganza
+Daewoo-Matiz
+Daewoo-Nexia
+Daewoo-Novus
+Daewoo-Nubira
+Daihatsu-Ayla (T. Agya)
+Daihatsu-Coupe
+Daihatsu-Gran Max
+Daihatsu-Luxio
+Daihatsu-Move Conte
+Daihatsu-Sigra
+Datsun-Go
+Datsun-mi DO
+Datsun-on DO
+Dodge-Caliber
+Dodge-Caravan
+Dodge-Challenger
+Dodge-Grand Caravan
+Dodge-Ram
+Dodge-Stratus
+DongFeng-AX7
+Dongfeng-Captain
+Dongfeng-DF6
+Dongfeng-GX
+Dongfeng-KC
+Eicher-10.59X
+Eicher-20.16
+Eicher-Bus
+Eicher-Pro 1059 XP
+Eicher-Pro 3015
+Eicher-Pro 5016
+Emgrand-EC7
+Emgrand-X7
+Exeed-LX
+Exeed-TXL
+Exeed-VX
+FAW-Bestune T77
+FAW-Besturn B50
+FAW-Besturn X40
+FAW-J5
+FAW-J6
+FAW-J7
+FAW-Tiger V
+FAW-V5
+FIAT-500
+FIAT-Albea
+FIAT-Bravo
+FIAT-Doblo
+FIAT-Ducato
+FIAT-Freemont
+FIAT-Fullback
+FIAT-Grande Punto
+FIAT-Linea
+FIAT-Panda
+FIAT-Punto
+FIAT-Scudo
+FIAT-Stilo
+FIAT-Uno
+Ferrari-F8 Spider
+Force-Gurkha
+Force-Traveller
+Ford-C Max
+Ford-Cargo
+Ford-Custom
+Ford-EcoSport
+Ford-Escape
+Ford-Escort
+Ford-Expedition
+Ford-Explorer
+Ford-F 150
+Ford-F-MAX
+Ford-Fiesta
+Ford-Figo
+Ford-Focus
+Ford-Focus C Max
+Ford-Fusion
+Ford-Galaxy
+Ford-Granada
+Ford-Ka
+Ford-Kuga
+Ford-Maverick
+Ford-Mondeo
+Ford-Mustang
+Ford-Probe
+Ford-Ranger
+Ford-S Max
+Ford-Scorpio
+Ford-Sierra
+Ford-Taunus
+Ford-Taurus
+Ford-Tourneo Connect
+Ford-Tourneo Custom
+Ford-Transit
+Ford-Transit Connect
+Ford-Unknown
+Foton-Auman
+Foton-Aumark
+Foton-Tunland
+Freightliner-Century Class
+Freightliner-Columbia
+Freightliner-FLD
+GAZ-172200 Volga
+GAZ-24 Volga
+GAZ-27 Gazel
+GAZ-31 Volga
+GAZ-3221 Gazel
+GAZ-3302 Gazel
+GAZ-3307
+GAZ-3308 Sadko
+GAZ-3309
+GAZ-3310 Valday
+GAZ-52
+GAZ-53
+GAZ-66
+GAZ-Cruise
+GAZ-GAZon Next
+GAZ-Gazel
+GAZ-Gazel Next
+GAZ-SAZ 3507
+GAZ-Valdai Next
+GAZ-Volga Siber
+GMC-Acadia
+GMC-Sierra
+GMC-Terrain
+GMC-Yukon
+Geely-Atlas
+Geely-Atlas Pro
+Geely-CK
+Geely-Coolray
+Geely-Emgrand EC7
+Geely-Emgrand X7
+Geely-GC6
+Geely-Haoyue
+Geely-MK
+Geely-Tugella
+Genesis-G70
+Genesis-G80
+Genesis-G90
+Genesis-GV70
+Genesis-GV80
+Geometry-A
+GolAZ-5291 Cruise
+Golden Dragon-XML6126
+Golden Dragon-XML6957
+Great Wall-CC1022SY
+Great Wall-CC1037SSK20
+Great Wall-Cc6460
+Great Wall-Deer
+Great Wall-Hover
+Great Wall-Hover H3
+Great Wall-Hover H5
+Great Wall-Hover H6
+Great Wall-Hover M2
+Great Wall-Poer
+Great Wall-Safe
+Great Wall-Wingle
+Great Wall-Wingle 7
+HUMMER-H2
+Hargobind Coach-Bus
+Haval-F7
+Haval-H6
+Haval-H9
+Haval-Jolion
+Haval-Unknown
+Higer-A80
+Higer-KLQ
+Hino-300 Series
+Hino-500
+Hino-500 Series
+Hino-700 Series
+Hino-RK 1
+Hino-Ranger
+Honda-Accord
+Honda-Accord Crosstour
+Honda-Airwave
+Honda-Amaze
+Honda-Brio
+Honda-CR V
+Honda-City
+Honda-Civic
+Honda-Civic Ferio
+Honda-Element
+Honda-Elysion
+Honda-Freed
+Honda-HR V
+Honda-HR-V
+Honda-Insight
+Honda-Integra
+Honda-Jazz
+Honda-Legend
+Honda-Mobilio Spike
+Honda-Odyssey
+Honda-Partner
+Honda-Pilot
+Honda-Prelude
+Honda-Ridgeline
+Honda-Stepwgn
+Honda-Stream
+Honda-Unknown
+Hongyan-Genlyon
+Howo-V7G
+Hozon-Neta U Pro
+Hyundai-Accent
+Hyundai-Accent (Ind)
+Hyundai-Aero City
+Hyundai-Atos
+Hyundai-Aura
+Hyundai-Avante
+Hyundai-County
+Hyundai-Coupe
+Hyundai-Creta
+Hyundai-Elantra
+Hyundai-Equus
+Hyundai-Galloper
+Hyundai-Genesis
+Hyundai-Getz
+Hyundai-Grand Santa Fe
+Hyundai-Grand Starex
+Hyundai-Grandeur
+Hyundai-H 1
+Hyundai-HD
+Hyundai-HD120
+Hyundai-HD500
+Hyundai-Lantra
+Hyundai-Matrix
+Hyundai-Mighty
+Hyundai-NF
+Hyundai-Palisade
+Hyundai-Porter
+Hyundai-Santa Fe
+Hyundai-Solaris
+Hyundai-Sonata
+Hyundai-Starex
+Hyundai-Staria
+Hyundai-Terracan
+Hyundai-Tiburon
+Hyundai-Trajet
+Hyundai-Tucson
+Hyundai-Universe Space
+Hyundai-Unknown
+Hyundai-Veloster
+Hyundai-Venue
+Hyundai-i10
+Hyundai-i20
+Hyundai-i30
+Hyundai-i40
+Hyundai-ix35
+Hyundai-ix55
+Ikarus-250
+Ikarus-256
+Ikarus-260
+Ikarus-280
+Infiniti-FX Series
+Infiniti-G Series
+Infiniti-JX Series
+Infiniti-Q50
+Infiniti-Q70 M Series
+Infiniti-QX Series
+Infiniti-QX50
+Infiniti-QX70
+Infiniti-QX80
+International-9000 Series
+International-ProStar
+Iran Khodro-Samand
+Isuzu-Elf
+Isuzu-F Series
+Isuzu-Forward
+Isuzu-GIGA
+Isuzu-Giga
+Isuzu-N Series
+Isuzu-Panther
+Isuzu-Traga
+Iveco-Daily
+Iveco-EuroCargo
+Iveco-EuroStar
+Iveco-EuroTech
+Iveco-Eurocargo
+Iveco-Neman
+Iveco-Stralis
+Iveco-Trakker
+Iveco-TurboDaily
+Izh-2125
+Izh-2126
+Izh-21261 Fabula
+Izh-2715
+Izh-2717
+Izh-412
+JAC-47883C
+JAC-Gallop
+JAC-JS6
+JAC-K7
+JAC-N120
+JAC-N200
+JAC-N350
+JAC-S3
+JMC-Carrying
+Jaguar-E Pace
+Jaguar-F Pace
+Jaguar-S Type
+Jaguar-X Type
+Jaguar-XE
+Jaguar-XF
+Jaguar-XJ
+Jaguar-XK
+Jaguar-XKR
+Jeep-Cherokee
+Jeep-Compass
+Jeep-Grand Cherokee
+Jeep-Wrangler
+KAvZ-3976
+KAvZ-4235
+KAvZ-4238
+KIA-Bongo
+KIA-Carens
+KIA-Carnival
+KIA-Cerato
+KIA-Granbird
+KIA-K5
+KIA-K7
+KIA-Magentis
+KIA-Mohave
+KIA-Opirus
+KIA-Optima
+KIA-Picanto
+KIA-Quoris
+KIA-Rio
+KIA-Rio X Line
+KIA-Seltos
+KIA-Shuma
+KIA-Sonet
+KIA-Sorento
+KIA-Soul
+KIA-Spectra
+KIA-Sportage
+KIA-Stinger
+KIA-Unknown
+KIA-Venga
+KIA-XCeed
+KIA-ceed
+KIA-pro ceed
+KamAZ-4308
+KamAZ-4310
+KamAZ-44108
+KamAZ-4539
+KamAZ-5308
+KamAZ-5320
+KamAZ-5410
+KamAZ-5411
+KamAZ-5460
+KamAZ-5490
+KamAZ-54901
+KamAZ-551
+KamAZ-6460
+KamAZ-6511
+KamAZ-6520
+KamAZ-6522
+KamAZ-Compass
+KamAZ-NefAz 4208
+King Long-XMQ
+Laksana-SR2
+Laksana-Skyliner
+Land Rover-Defender
+Land Rover-Discovery
+Land Rover-Discovery Sport
+Land Rover-Freelander
+Land Rover-Range Rover
+Land Rover-Range Rover Evoque
+Land Rover-Range Rover Sport
+Lexus-CT 200h
+Lexus-ES
+Lexus-GS
+Lexus-GX
+Lexus-IS
+Lexus-LC
+Lexus-LS
+Lexus-LX
+Lexus-NX
+Lexus-RX
+Lexus-SC
+Lexus-Unknown
+Li-L9
+LiAZ-5256
+LiAZ-5292
+LiAZ-5293
+LiAZ-6213
+LiAZ-677
+Lifan-Breez
+Lifan-Cebrium
+Lifan-Smily
+Lifan-Solano
+Lifan-X50
+Lifan-X60
+Luxgen-7 SUV
+MAN-18
+MAN-19
+MAN-F2000
+MAN-F90
+MAN-L2000
+MAN-LE
+MAN-Lions Coach
+MAN-Lions Regio
+MAN-TGA
+MAN-TGL
+MAN-TGS
+MAN-TGX
+MAN-Unknown
+MAZ-103465
+MAZ-206067
+MAZ-43
+MAZ-53
+MAZ-54
+MAZ-55
+MAZ-63
+MAZ-6312
+MAZ-64
+MAZ-65
+MG-HS
+MG-Hector
+MINI-Cooper
+MINI-Countryman
+MINI-Paceman
+Mahindra-Bolero
+Mahindra-Scorpio
+Mahindra-Thar
+Mahindra-XUV300
+Mahindra-XUV500
+Mahindra-XUV700
+Maserati-Levante
+Mazda-2
+Mazda-3
+Mazda-323
+Mazda-5
+Mazda-6
+Mazda-626
+Mazda-BT 50
+Mazda-Bongo
+Mazda-Bongo Brawny
+Mazda-Bongo Friendee
+Mazda-CX 5
+Mazda-CX 7
+Mazda-CX 9
+Mazda-Capella
+Mazda-Demio
+Mazda-Familia
+Mazda-MPV
+Mazda-MX 5
+Mazda-Millenia
+Mazda-Premacy
+Mazda-RX 8
+Mazda-Titan
+Mazda-Tribute
+Mercedes Benz-208D
+Mercedes Benz-310D
+Mercedes Benz-408D
+Mercedes Benz-A Klasse
+Mercedes Benz-Actros
+Mercedes Benz-Atego
+Mercedes Benz-Axor
+Mercedes Benz-B Klasse
+Mercedes Benz-Bus
+Mercedes Benz-C Klasse
+Mercedes Benz-CL Klasse
+Mercedes Benz-CLA Klasse
+Mercedes Benz-CLK Klasse
+Mercedes Benz-CLS Klasse
+Mercedes Benz-Citan
+Mercedes Benz-Conecto
+Mercedes Benz-E Klasse
+Mercedes Benz-G Klasse
+Mercedes Benz-GL Klasse
+Mercedes Benz-GLA Klasse
+Mercedes Benz-GLB
+Mercedes Benz-GLC Klasse
+Mercedes Benz-GLE Klasse
+Mercedes Benz-GLK Klasse
+Mercedes Benz-GLS Klasse
+Mercedes Benz-LK Series
+Mercedes Benz-M Klasse
+Mercedes Benz-MB Series
+Mercedes Benz-O303
+Mercedes Benz-O350 Tourismo
+Mercedes Benz-O405
+Mercedes Benz-O560 Intouro
+Mercedes Benz-R Klasse
+Mercedes Benz-S Klasse
+Mercedes Benz-SK Series
+Mercedes Benz-SL Klasse
+Mercedes Benz-SLC
+Mercedes Benz-SLK Klasse
+Mercedes Benz-Sprinter
+Mercedes Benz-T1
+Mercedes Benz-T2
+Mercedes Benz-Travego
+Mercedes Benz-Unknown
+Mercedes Benz-V Klasse
+Mercedes Benz-Vario
+Mercedes Benz-Viano
+Mercedes Benz-Vito
+Mitsubishi-ASX
+Mitsubishi-Adventure
+Mitsubishi-Airtrek
+Mitsubishi-Canter
+Mitsubishi-Carisma
+Mitsubishi-Colt
+Mitsubishi-Colt 100 PS
+Mitsubishi-Colt L300
+Mitsubishi-Colt T120SS
+Mitsubishi-Delica
+Mitsubishi-Delica Space Gear
+Mitsubishi-Eclipse
+Mitsubishi-Fuso 190 PS
+Mitsubishi-Fuso 220 PS
+Mitsubishi-Fuso Canter
+Mitsubishi-Fuso Fighter
+Mitsubishi-Galant
+Mitsubishi-Grandis
+Mitsubishi-L200
+Mitsubishi-Lancer
+Mitsubishi-Lancer Cedia
+Mitsubishi-Lancer Evolution
+Mitsubishi-Mirage
+Mitsubishi-Outlander
+Mitsubishi-Outlander XL
+Mitsubishi-Pajero
+Mitsubishi-Pajero Sport
+Mitsubishi-Pajero iO
+Mitsubishi-RVR
+Mitsubishi-Space Star
+Mitsubishi-Xpander
+Moskvich-2140
+Moskvich-2141
+Moskvich-3
+Moskvich-408
+Moskvich-412
+Motorbike-Unknown
+Nefaz-5299
+Neoplan-Cityliner
+Neoplan-Skyliner
+New Armada-New Coaster
+Night-Night
+Nissan-AD
+Nissan-Almera
+Nissan-Almera Classic
+Nissan-Atlas
+Nissan-Avenir
+Nissan-Bluebird
+Nissan-Bluebird Sylphy
+Nissan-Cedric
+Nissan-Cefiro
+Nissan-Cube
+Nissan-Diesel Condor
+Nissan-Elgrand
+Nissan-GT R
+Nissan-Juke
+Nissan-Laurel
+Nissan-Liberty
+Nissan-Livina
+Nissan-March
+Nissan-Maxima
+Nissan-Maxima QX
+Nissan-Micra
+Nissan-Murano
+Nissan-NP300 Pickup
+Nissan-Navara
+Nissan-Note
+Nissan-Pathfinder
+Nissan-Patrol
+Nissan-Presage
+Nissan-Primera
+Nissan-Pulsar
+Nissan-Qashqai
+Nissan-Qashqai 2
+Nissan-Safari
+Nissan-Sentra
+Nissan-Serena
+Nissan-Skyline
+Nissan-Sunny
+Nissan-Teana
+Nissan-Terrano
+Nissan-Terrano II
+Nissan-Tiida
+Nissan-Unknown
+Nissan-Vanette
+Nissan-Wingroad
+Nissan-X Trail
+Omoda-C5
+Opel-Antara
+Opel-Ascona
+Opel-Astra
+Opel-Calibra
+Opel-Combo
+Opel-Corsa
+Opel-Frontera
+Opel-Insignia
+Opel-Kadett
+Opel-Meriva
+Opel-Mokka
+Opel-Omega
+Opel-Rekord
+Opel-Tigra
+Opel-Vectra
+Opel-Vivaro
+Opel-Zafira
+Opel-Zafira Life
+PAZ-3204
+PAZ-3205
+PAZ-4230 Avrora
+PAZ-4234
+Peugeot-1007
+Peugeot-106
+Peugeot-107
+Peugeot-2008
+Peugeot-205
+Peugeot-206
+Peugeot-207
+Peugeot-208
+Peugeot-3008
+Peugeot-301
+Peugeot-306
+Peugeot-307
+Peugeot-308
+Peugeot-4007
+Peugeot-405
+Peugeot-406
+Peugeot-407
+Peugeot-408
+Peugeot-5008
+Peugeot-508
+Peugeot-607
+Peugeot-Boxer
+Peugeot-Expert
+Peugeot-Expert Tepee
+Peugeot-Partner
+Peugeot-Traveller
+Piterbilt-387
+Porsche-911
+Porsche-Boxster
+Porsche-Cayenne
+Porsche-Cayman
+Porsche-Macan
+Porsche-Panamera
+Porsche-Taycan
+RAM-1500
+Ram-Pickup
+Ravon-Nexia
+Ravon-Nexia R3
+Renault-19
+Renault-21
+Renault-Arkana
+Renault-Clio
+Renault-D12
+Renault-Dokker
+Renault-Duster
+Renault-Espace
+Renault-Fluence
+Renault-Grand Scenic
+Renault-Kangoo
+Renault-Kaptur
+Renault-Koleos
+Renault-Kwid
+Renault-Laguna
+Renault-Logan
+Renault-Magnum
+Renault-Master
+Renault-Megane
+Renault-Midliner
+Renault-Premium
+Renault-Sandero
+Renault-Sandero Stepway
+Renault-Scenic
+Renault-Symbol
+Renault-T Series
+Renault-Trafic
+Renault-Triber
+Renault-Twingo
+Renault-Unknown
+Renault-Vel Satis
+Rolls Royce-Cullinan
+Rolls Royce-Dawn
+Rolls Royce-Ghost
+Rolls Royce-Wraith
+Rover-200
+SAAB-9 3
+SAAB-9 5
+SAAB-900
+SAAB-9000
+SEAT-Alhambra
+SEAT-Cordoba
+SEAT-Leon
+SML-Samrat GS
+Sany-462
+Saturn-VUE
+Scania-G Series
+Scania-III Series
+Scania-IV Series
+Scania-P Series
+Scania-P series
+Scania-R Series
+Scania-S Series
+Scania-Unknown
+Setra-200 Series
+Setra-300 Series
+Shaanxi-SX3250 Series
+Shaanxi-Shacman
+Shacman-F3000
+Shacman-X3000
+Shacman-X6000
+Shacman-Х3000
+Sitrak-C7H
+Sitrak-MAX
+Skoda-Fabia
+Skoda-Favorit
+Skoda-Felicia
+Skoda-Karoq
+Skoda-Kodiaq
+Skoda-Octavia
+Skoda-Rapid
+Skoda-Roomster
+Skoda-Superb
+Skoda-Yeti
+Skywell-ET5
+Smart-Fortwo
+SsangYong-Actyon
+SsangYong-Actyon Sports
+SsangYong-Istana
+SsangYong-Korando
+SsangYong-Kyron
+SsangYong-New Actyon
+SsangYong-Rexton
+SsangYong-Stavic
+Subaru-B9 Tribeca
+Subaru-Exiga
+Subaru-Forester
+Subaru-Impreza
+Subaru-Impreza WRX STi
+Subaru-Impreza XV
+Subaru-Legacy
+Subaru-Outback
+Subaru-Tribeca
+Subaru-XV
+Suzuki-APV
+Suzuki-Alto
+Suzuki-Baleno
+Suzuki-Carry
+Suzuki-Celerio
+Suzuki-Ciaz
+Suzuki-Dzire
+Suzuki-Eeco
+Suzuki-Ertiga
+Suzuki-Escudo
+Suzuki-Grand Vitara
+Suzuki-Ignis
+Suzuki-Jimny
+Suzuki-Liana
+Suzuki-SX4
+Suzuki-SX4 Cross
+Suzuki-SX4 S Cross
+Suzuki-Splash
+Suzuki-Swift
+Suzuki-Vitara
+Suzuki-Wagon R
+Tank-500
+Tata-1615
+Tata-407
+Tata-613
+Tata-Ace
+Tata-Altroz
+Tata-Bus
+Tata-Harrier
+Tata-LPT
+Tata-LPT-613
+Tata-Nexon
+Tata-Punch
+Tata-Signa
+Tata-Tiago
+Tata-Ultra
+Tatra-T158
+Temsa-Opalin 9
+Tesla-Model 3
+Tesla-Model S
+Tesla-Model X
+Tesla-Model Y
+Toyota-4Runner
+Toyota-Allion
+Toyota-Alphard
+Toyota-Altezza
+Toyota-Auris
+Toyota-Avalon
+Toyota-Avanza (D. Xenia)
+Toyota-Avensis
+Toyota-Caldina
+Toyota-Calya
+Toyota-Camry
+Toyota-Camry Solara
+Toyota-Carina
+Toyota-Carina E
+Toyota-Carina ED
+Toyota-Celica
+Toyota-Chaser
+Toyota-Corolla
+Toyota-Corolla Axio
+Toyota-Corolla Cross
+Toyota-Corolla Fielder
+Toyota-Corolla Levin
+Toyota-Corolla Runx
+Toyota-Corolla Spacio
+Toyota-Corolla Verso
+Toyota-Corona
+Toyota-Corona Premio
+Toyota-Corsa
+Toyota-Cresta
+Toyota-Crown
+Toyota-Duet
+Toyota-Dyna
+Toyota-Estima
+Toyota-Etios Valco
+Toyota-FJ Cruiser
+Toyota-Fortuner
+Toyota-Fun Cargo
+Toyota-Gaia
+Toyota-Glanza
+Toyota-Harrier
+Toyota-Hiace
+Toyota-Highlander
+Toyota-Hilux
+Toyota-Hilux Surf
+Toyota-Innova Crysta
+Toyota-Ipsum
+Toyota-Ist
+Toyota-Kijang Innova
+Toyota-Kluger
+Toyota-Land Cruiser
+Toyota-Land Cruiser Prado
+Toyota-Lite Ace
+Toyota-Lite Ace Noah
+Toyota-Mark II
+Toyota-Mark X
+Toyota-Matrix
+Toyota-Nadia
+Toyota-Noah
+Toyota-Opa
+Toyota-Passo
+Toyota-Platz
+Toyota-Premio
+Toyota-Previa
+Toyota-Prius
+Toyota-Probox
+Toyota-RAV4
+Toyota-Ractis
+Toyota-Raum
+Toyota-Revo
+Toyota-Rush (D. Terios)
+Toyota-Sequoia
+Toyota-Sienna
+Toyota-Sienta
+Toyota-Sprinter
+Toyota-Sprinter Carib
+Toyota-Starlet
+Toyota-Succeed
+Toyota-Supra
+Toyota-Town Ace
+Toyota-Town Ace Noah
+Toyota-Toyo Ace
+Toyota-Tundra
+Toyota-Unknown
+Toyota-Vellfire
+Toyota-Venza
+Toyota-Verso
+Toyota-Vios
+Toyota-Vista
+Toyota-Vista Ardeo
+Toyota-Vitz
+Toyota-Voxy
+Toyota-WiLL
+Toyota-Windom
+Toyota-Wish
+Toyota-Yaris
+Toyota-Yaris (Ind)
+Toyota-bB
+Trailer-Hauler
+Trailer-Trailer
+UAZ-2206
+UAZ-23632 Pickup
+UAZ-3151
+UAZ-316
+UAZ-31622 Simbir
+UAZ-3163 Patriot
+UAZ-3303
+UAZ-39094
+UAZ-390995
+UAZ-3962
+UAZ-452
+UAZ-469
+UAZ-Profi
+UD-Condor
+UD-Quester
+Ural-4320
+Ural-5557
+VAZ Lada-110
+VAZ Lada-2101
+VAZ Lada-2102
+VAZ Lada-2103
+VAZ Lada-2104
+VAZ Lada-2105
+VAZ Lada-2106
+VAZ Lada-2107
+VAZ Lada-2120 Nadezhda
+VAZ Lada-Granta
+VAZ Lada-Kalina
+VAZ Lada-Kalina Cross
+VAZ Lada-Largus
+VAZ Lada-Niva
+VAZ Lada-Niva Travel
+VAZ Lada-Oka
+VAZ Lada-Priora
+VAZ Lada-Samara
+VAZ Lada-Samara 2
+VAZ Lada-Unknown
+VAZ Lada-Vesta
+VAZ Lada-Vesta SW
+VAZ Lada-Vesta SW Cross
+VAZ Lada-XRAY
+VIS-234700
+VIS-234900
+Van Hool-T815
+Volkswagen-Amarok
+Volkswagen-Bora
+Volkswagen-Caddy
+Volkswagen-Caravelle
+Volkswagen-Crafter
+Volkswagen-Golf
+Volkswagen-Golf Plus
+Volkswagen-ID.4
+Volkswagen-ID.5
+Volkswagen-ID.6
+Volkswagen-Jetta
+Volkswagen-LT
+Volkswagen-Multivan
+Volkswagen-New Beetle
+Volkswagen-Passat
+Volkswagen-Passat Alltrack
+Volkswagen-Passat CC
+Volkswagen-Phaeton
+Volkswagen-Polo
+Volkswagen-Scirocco
+Volkswagen-Sharan
+Volkswagen-Taos
+Volkswagen-Teramont
+Volkswagen-Tiguan
+Volkswagen-Touareg
+Volkswagen-Touran
+Volkswagen-Transporter
+Volkswagen-Unknown
+Volvo-240 Series
+Volvo-740
+Volvo-850
+Volvo-940
+Volvo-B10 Series
+Volvo-C30
+Volvo-F12
+Volvo-FE
+Volvo-FH
+Volvo-FH12
+Volvo-FH13
+Volvo-FL
+Volvo-FM
+Volvo-FMX
+Volvo-S40
+Volvo-S60
+Volvo-S80
+Volvo-S90
+Volvo-Unknown
+Volvo-V40
+Volvo-V40 Cross Country
+Volvo-V50
+Volvo-V60 Cross Country
+Volvo-V70
+Volvo-V90 Cross Country
+Volvo-VN Series
+Volvo-XC40
+Volvo-XC60
+Volvo-XC70
+Volvo-XC90
+Vortex-Tingo
+Wuling-Almaz
+Wuling-Confero S
+Wuling-Cortez
+Wuling-Formo
+Xpeng-G3
+Yutong-ZK6122
+ZAZ-1102 Tavriya
+ZAZ-1103 Slavuta
+ZAZ-11055
+ZAZ-968
+ZAZ-Chance
+ZAZ-Lanos
+ZAZ-Sens
+ZIL-130
+ZIL-131
+ZIL-133
+ZIL-4314
+ZIL-4331
+ZIL-4333
+ZIL-5301 Bychok
+ZIL-MMZ 4502
+ZIL-MMZ 4505
+ZIL-MMZ 45085
+ZIL-MMZ 554
+Zeekr-001
+Zotye-T700
+Нaval-Jolion

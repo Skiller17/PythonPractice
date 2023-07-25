@@ -1,0 +1,152 @@
+AMT
+Acura
+Adiputro
+Alfa Romeo
+Ashok Leyland
+Asia
+Audi
+Aurus
+Avante
+Avia
+BAW
+BAZ
+BMW
+BYD
+Beiben
+Bentley
+Bharatbenz
+Brilliance
+CAMC
+Cadillac
+Carrus
+Changan
+Chery
+Chevrolet
+Chrysler
+Citroen
+DAF
+DW Hower
+Daewoo
+Daihatsu
+Datsun
+Dodge
+DongFeng
+Dongfeng
+Eicher
+Emgrand
+Exeed
+FAW
+FIAT
+Ferrari
+Force
+Ford
+Foton
+Freightliner
+GAZ
+GMC
+Geely
+Genesis
+Geometry
+GolAZ
+Golden Dragon
+Great Wall
+HUMMER
+Hargobind Coach
+Haval
+Higer
+Hino
+Honda
+Hongyan
+Howo
+Hozon
+Hyundai
+Ikarus
+Infiniti
+International
+Iran Khodro
+Isuzu
+Iveco
+Izh
+JAC
+JMC
+Jaguar
+Jeep
+KAvZ
+KIA
+KamAZ
+King Long
+Laksana
+Land Rover
+Lexus
+Li
+LiAZ
+Lifan
+Luxgen
+MAN
+MAZ
+MG
+MINI
+Mahindra
+Maserati
+Mazda
+Mercedes Benz
+Mitsubishi
+Moskvich
+Motorbike
+Nefaz
+Neoplan
+New Armada
+Night
+Nissan
+Omoda
+Opel
+PAZ
+Peugeot
+Piterbilt
+Porsche
+RAM
+Ram
+Ravon
+Renault
+Rolls Royce
+Rover
+SAAB
+SEAT
+SML
+Sany
+Saturn
+Scania
+Setra
+Shaanxi
+Shacman
+Sitrak
+Skoda
+Skywell
+Smart
+SsangYong
+Subaru
+Suzuki
+Tank
+Tata
+Tatra
+Temsa
+Tesla
+Toyota
+Trailer
+UAZ
+UD
+Ural
+VAZ Lada
+VIS
+Van Hool
+Volkswagen
+Volvo
+Vortex
+Wuling
+Xpeng
+Yutong
+ZAZ
+ZIL
+Zeekr
+Zotye
+Нaval
