@@ -48,6 +48,6 @@ def build_histogram(no_match_dict: dict[str, int]):
         keys.append(key)
         values.append(value)
 
-    plt.figure(figsize=(17, 5))
-    sns.barplot(x=keys, y=values)
+    plt.figure(figsize=(27, 5))
+    sns.barplot(x=values, y=keys)
     plt.show()
