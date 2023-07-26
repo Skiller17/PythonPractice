@@ -46,9 +46,3 @@ def check_images(path: str, output_path: str, no_match_dict: dict[str, int], cla
                     save_image_with_predict_mark(predictable_car, output_dir_path, file_path,
                                                  os.path.basename(file_path))
                     make_no_match_dict(predictable_car, real_brand, real_model, no_match_dict)
-
-
-list_of_datasets = list()
-list_of_datasets.append('/home/azhok/Dataset1')
-list_of_datasets.append('/home/azhok/Dataset2')
-check_datasets(list_of_datasets, '/home/azhok/Output', 'model.onnx')
