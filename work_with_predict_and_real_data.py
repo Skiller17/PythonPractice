@@ -1,12 +1,13 @@
 import os
 import shutil
+from typing import Dict, Tuple
 
 import matplotlib.pyplot as plt
 import seaborn as sns
 
 
 def compare_predict_and_marking_data(
-        predict_data: tuple[tuple[str, float], tuple[str, float]],
+        predict_data: Tuple[Tuple[str, float], Tuple[str, float]],
         real_brand: str,
         real_model: str
 ) -> bool:
@@ -20,7 +21,7 @@ def compare_predict_and_marking_data(
         return False
 
 
-def save_image_with_predict_mark(predict_data: tuple[tuple[str, float], tuple[str, float]], output_path: str,
+def save_image_with_predict_mark(predict_data: Tuple[Tuple[str, float], Tuple[str, float]], output_path: str,
                                  file_path: str,
                                  file_name: str):
     os.makedirs(output_path, exist_ok=True)
@@ -29,8 +30,8 @@ def save_image_with_predict_mark(predict_data: tuple[tuple[str, float], tuple[st
     shutil.copy(file_path, file_output_path)
 
 
-def make_no_match_dict(predict_data: tuple[tuple[str, float], tuple[str, float]], real_brand: str, real_model: str,
-                       no_match_dict: dict[str, int]):
+def make_no_match_dict(predict_data: Tuple[Tuple[str, float], Tuple[str, float]], real_brand: str, real_model: str,
+                       no_match_dict: Dict[str, int]):
     real_brand_with_model = real_brand + ' ' + real_model
 
     str_for_no_match_dict = real_brand_with_model + ' - ' + predict_data[1][0]
@@ -41,7 +42,7 @@ def make_no_match_dict(predict_data: tuple[tuple[str, float], tuple[str, float]]
         no_match_dict[str_for_no_match_dict] = 1
 
 
-def build_histogram(no_match_dict: dict[str, int]):
+def build_histogram(no_match_dict: Dict[str, int]):
     keys = list()
     values = list()
     for key, value in no_match_dict.items():

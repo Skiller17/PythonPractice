@@ -1,10 +1,14 @@
+import os
+from typing import Dict
+
 import cv2
 import onnx
 from time import sleep
 from tqdm import tqdm
 
 from onnx_code import BrandModelClassifier
-from work_with_predict_and_real_data import *
+from work_with_predict_and_real_data import compare_predict_and_marking_data, save_image_with_predict_mark, \
+    make_no_match_dict, build_histogram
 
 
 def create_model(model_path: str) -> BrandModelClassifier:
@@ -13,7 +17,7 @@ def create_model(model_path: str) -> BrandModelClassifier:
     return classifier
 
 
-def check_datasets(list_of_datasets: list, output_path: str, model_path: str):
+def check_datasets(list_of_datasets: list, output_path: str, model_path: str) -> Dict[str, int]:
     no_match_dict = dict()
     classifier = create_model(model_path)
     for dataset in tqdm(list_of_datasets, desc='Checked datasets', colour='green', ncols=100):
@@ -21,9 +25,10 @@ def check_datasets(list_of_datasets: list, output_path: str, model_path: str):
         check_images(dataset, output_path, no_match_dict, classifier)
 
     build_histogram(no_match_dict)
+    return no_match_dict
 
 
-def check_images(path: str, output_path: str, no_match_dict: dict[str, int], classifier: BrandModelClassifier):
+def check_images(path: str, output_path: str, no_match_dict: Dict[str, int], classifier: BrandModelClassifier):
     abspath = os.path.abspath(path)
     for real_brand in tqdm(os.listdir(abspath), desc='Checked brands', colour='blue', ncols=100):
         sleep(1)
